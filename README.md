@@ -6,10 +6,10 @@ AI Fishing - Ο ξεκούραστος ψαράς!
 
 Ηλεκτρονικά μέρη:
 
-Raspberry Pi Pico H
+- Raspberry Pi Pico H
 
-Gravity HUSKYLENS
+- Gravity HUSKYLENS
 
-Servo Micro 1.5kg.cm Continuous Rotation
+- Servo Micro 1.5kg.cm Continuous Rotation
 
-Basic 16x2 Character LCD - White on Blue 5V (I2C Protocol)
+- Basic 16x2 Character LCD - White on Blue 5V (I2C Protocol)
